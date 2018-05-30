@@ -14,9 +14,10 @@ _This app is a stylized layout, modeled after the Epicodus curriculum site, [lea
 
 ## Specs
 _Simple mockup using paper and Sketch_
-<div style="text-align:center"><img src="./img/#" alt="hand drawn sketch of site" width="500"></div>
-<br>
-<div style="text-align:center"><img src="./img/#" alt="mock up of site made in sketch" width="500"></div>
+
+My main focus was to add color and depth along with bringing focus to quotes using images.
+
+<div style="text-align:center"><img src="./img/lhtc-sketch.png" alt="mock up of site made in sketch" width="300"></div>
 
 
 ## Setup/Installation Requirements
